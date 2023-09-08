@@ -20,12 +20,12 @@ username password phone proxy_server
 
 ## 其他
 
-[获取ct0.py](other%2F%BB%F1%C8%A1ct0.py)：获取 `ct0`（`x-csrf-token`）。
+[获取ct0.py](other/%E8%8E%B7%E5%8F%96ct0.py)：获取 `ct0`（`x-csrf-token`）。
 
-[生成sess.py](other%2F%C9%FA%B3%C9sess.py)：分析时的中间产物，应该没用。`_twitter_sess`
+[生成sess.py](other/%E7%94%9F%E6%88%90sess.py)：分析时的中间产物，应该没用。`_twitter_sess`
 
-[提取用户数字id.py](other%2F%CC%E1%C8%A1%D3%C3%BB%A7%CA%FD%D7%D6id.py)：不登录，将账号（`account`）成数字（`rest_id`）。
+[提取用户数字id.py](other/%E6%8F%90%E5%8F%96%E7%94%A8%E6%88%B7%E6%95%B0%E5%AD%97id.py)：不登录，将账号（`account`）成数字（`rest_id`）。
 
-[更换cookie.user.js](other%2F%B8%FC%BB%BBcookie.user.js)：油猴脚本，点击一个悬浮按钮，直接切换已登录账号（代码内配置的账号cookie，未做风控处理，风险自担）
+[更换cookie.user.js](other/%E6%9B%B4%E6%8D%A2cookie.user.js)：油猴脚本，点击一个悬浮按钮，直接切换已登录账号（代码内配置的账号cookie，未做风控处理，风险自担）
 
 - 2023/09/08：init
